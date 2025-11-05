@@ -24,7 +24,7 @@ def exponentiation(a,b):
     return a ** b
  
 #define calculator options
-def calculaor():
+def calculator():
     print("simple calculator")
     print("1. Addition")
     print("2. Subtraction")
